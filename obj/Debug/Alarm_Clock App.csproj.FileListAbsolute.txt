@@ -1,0 +1,14 @@
+D:\Microsoft_Visual_Studio-Projects\Alarm_Clock App\bin\Debug\Alarm_Clock App.exe.config
+D:\Microsoft_Visual_Studio-Projects\Alarm_Clock App\bin\Debug\Alarm_Clock App.exe
+D:\Microsoft_Visual_Studio-Projects\Alarm_Clock App\bin\Debug\Alarm_Clock App.pdb
+D:\Microsoft_Visual_Studio-Projects\Alarm_Clock App\obj\Debug\Alarm_Clock_App.Form1.resources
+D:\Microsoft_Visual_Studio-Projects\Alarm_Clock App\obj\Debug\Alarm_Clock_App.Properties.Resources.resources
+D:\Microsoft_Visual_Studio-Projects\Alarm_Clock App\obj\Debug\Alarm_Clock App.csproj.GenerateResource.cache
+D:\Microsoft_Visual_Studio-Projects\Alarm_Clock App\obj\Debug\Alarm_Clock App.csproj.CoreCompileInputs.cache
+D:\Microsoft_Visual_Studio-Projects\Alarm_Clock App\obj\Debug\Alarm_Clock App.exe
+D:\Microsoft_Visual_Studio-Projects\Alarm_Clock App\obj\Debug\Alarm_Clock App.pdb
+D:\Microsoft_Visual_Studio-Projects\Alarm_Clock App\bin\Debug\Alarm_Clock App.exe.manifest
+D:\Microsoft_Visual_Studio-Projects\Alarm_Clock App\bin\Debug\Alarm_Clock App.application
+D:\Microsoft_Visual_Studio-Projects\Alarm_Clock App\obj\Debug\Alarm_Clock App.exe.manifest
+D:\Microsoft_Visual_Studio-Projects\Alarm_Clock App\obj\Debug\Alarm_Clock App.application
+D:\Microsoft_Visual_Studio-Projects\Alarm_Clock App\obj\Debug\Alarm_Clock App.csproj.AssemblyReference.cache
