@@ -2,7 +2,7 @@
 
 
 
-## Initital when the windows application is opened
+## Inititally when the windows application is opened
 ![image](https://user-images.githubusercontent.com/65715910/131220750-f211d7bb-55bf-4653-a648-5c74d6c71ddb.png)
 
 ## When the alarm clock is set
